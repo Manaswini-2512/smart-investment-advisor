@@ -73,6 +73,7 @@ Ensure the following software is installed:
 * HTML
 * CSS
 * JavaScript
+* Typescript
 
 ### Data & Visualization
 
